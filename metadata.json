@@ -1,0 +1,7 @@
+{
+  "name": "Đất Nói - AI Nông Dân (Tiếng Việt)",
+  "description": "An intelligent, full-screen dashboard that provides real-time soil analysis, diagnostics, and a voice-enabled AI chatbot powered by Gemini to answer farming questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
